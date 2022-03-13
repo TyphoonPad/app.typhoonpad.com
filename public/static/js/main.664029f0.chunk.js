@@ -10,7 +10,7 @@
                 root: "Footer_root__2pYlp",
                 wrapper: "Footer_wrapper__392-H",
                 info: "Footer_info__1CViX",
-                logo: "Footer_logo__1yyNQ",
+                logo: "anypad-logo",
                 desc: "Footer_desc__37eY5",
                 copyright: "Footer_copyright__9oPQr",
                 links: "Footer_links__1x82G",
@@ -2352,7 +2352,7 @@
                         className: mt.a.logo
                     }), f.a.createElement("div", {
                         className: mt.a.desc
-                    }, "The First NFT Lead Multi-Chain Launchpad")), f.a.createElement("div", {
+                    }, "TyphoonPad The First NFT Lead Multi-Chain Launchpad")), f.a.createElement("div", {
                         className: mt.a.links
                     }, f.a.createElement("nav", {
                         className: mt.a.menu
@@ -5681,14 +5681,14 @@
                         className: "header__logo"
                     }, f.a.createElement("img", {
                         src: wt.a,
-                        className: "anypad-logo",
+                        className: "header-logo",
                         alt: ""
                     })), f.a.createElement(s.b, {
                         to: "/",
                         className: "header__logo--small ".concat(t ? "active" : "")
                     }, f.a.createElement("img", {
                         src: wt.a,
-                        className: "anypad-logo",
+                        className: "header-logo",
                         alt: ""
                     })), f.a.createElement("nav", {
                         className: vn.a.nav
@@ -5909,7 +5909,7 @@
                     className: En.a.value
                 }, r && r.token ? r.token : "-"))))))))))
             }
-            var Nn = "0xeaFCe4feAE8d95315686C1aEc3bbA4A542f3b295";
+            var Nn = "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56";
             var Cn = function () {
                     var e = Object(v.useActiveWeb3React)().library,
                         t = Object(i.useState)(0),
@@ -6663,7 +6663,7 @@
             }))
         },
         162: function (e, t) {
-            e.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAqCAYAAADBNhlmAAABhUlEQVRYR+1XS07DMBCdSa4BB2LHAgkkWLPjAv263wuwY00lkFh01wPBNVKj1AU1oc58HEtGcraez/N7nhcbIfEPE8cHGWCoQpnBzGAoA6H5+QxGZ3AwW12BrV7qRgXg09KMtyFNR2ZxvQf7fKiB5eN6Otx11SMlHpj5J1i4cEWwKtE+LMzkTQNybOZ3lcVXAFu6cvC1NpPLHgE6kFjg/Wo6epeAHM6Wt3ZvN7/g+gJ4kMTCR6OwkMmz4ACrAuGGOjKkxPVGfQ04TIbkOpKZn6aRJqcNhw1QymQf4EQM/uyM05gTwxSOL/FpwS4AddyfaVVOvopBikm3fvS5o3dyhsnHqOgMtoucZ/I0SueZjQrcs+CL84MMBxckcbfU+j9OkM38K4l9k5zEkCRtMxwT5sRwh1NkM5LGktgusGyAmoaaHNUUhzQKyWX5oO/CKvl9Rb2wNt8kegOOduVvP5okzJHG3sujKfVnJ9evYsWxbSYWAKpuBkgxRK1nBimGqPXMIMUQtf4NR5WDOp6vrcUAAAAASUVORK5CYII="
+            e.exports = "http://typhoonpad.com/wp-content/uploads/2022/03/1.bmp"
         },
         17: function (e, t, a) {
             e.exports = {
@@ -6827,7 +6827,7 @@
             }
         },
         224: function (e, t) {
-            e.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALUAAAAmCAYAAACCodpEAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAulSURBVHgB7VxfaCRJGf+qumey53m3yYugD6aDCiIKuwcHdyeYzsId68KyySl4J0Imcg/eIWYiIgd6lwkerOBpkvVwDxVngg+L7EFmwXPXB80EuVvhHjbiw6Iv6YWTfUzuxU0ymSq/r7q6t7umO5k/nQnE/pFKT1d/XV1T/auvvu+rqgHIGC9UHzjf+P3OLOTIcUzgkDGazF7krFUpVbeGIUeOY0CmpJ767d40A5gUAKf3iqIMOXIcA7LV1AIqdEBiM27BbOnafQdy5BgwMiP15OLWMGNsVAKTAPgH7DTYsgo5cgwYmZG6PjeyjaUtM19RB9njL13fdCFHjgEiU/NDcHsBFfU2clqClD6zLZiHHDkGiExJXZ9h2yDkAlKaAWOK1chv9zurd0uQI8eA0Depz1+OO4PvzBSXkM8bDDW1DB7CxWJ59U4e4ssxEPRF6gtvbF2y+dBf3UUjJs1kGdW0VMY1HlFxD+/bkIf4cgwE/Wlq0VzCMN7Y4/txwl775mPryOV1FQZRpgjF+GC2fPO2AzlyHDF6JvX51z4sIVVHgaOVYfFZU1tbsjkThEF0LOQ0Z2wRcuQ4YjDoAedf3XRY4dQaK9ijvGgxVrDAGios1b/7sbmoXOn6h4sFa7ds23uyYD1gtr0rudg59+ZXJxpwzJBSnsGD2ck8jLXPQIfAMlw8mNGdKSxjO0GWOv1qNA/lJlLKJbnhDsudxIO51mYZZesJsiU8TEM6qPx1THW834Me0E3dDyjDBTgwauZhuoepgeU2zIs29AAhitOWgFEym5kKdKjs8uTVBzfqLz/SeFh6cwFfHU6dyxFVWUxWgVFlG3D8ICK4ZiY26EpSQ6XASSiDJpymEmSHE2TTQMQyOxyZeJUE2UVdjwBeEqE1nA7qQJ1kEduhguUsQBfQZJxMuJRW9zQ40FlbzeMzPTzORb9z1+aHW0YtDaISnIdGM4LZVqx31abGtploXfGnGFFKRUSk+6O1P0/D8cNNyZ+E/jCptWfPwBe0BL42imJWa/sQWvM6hlxXRDwAFSy/W3Mx7b0e5apNB9Mq1jXkXtekLtCwoGbBkaDq6B8Ur7Gnfr3adKPyv/7a5ypMDRU6wCepG4hKeW312EJ8KWQIkEWHq5oE7AGmGUTlmREkc4gmLV2DzuGB3wko1aG9I5U7/R4o5+ChlHJ5WGvxXuFFUpoZQ51QtU9XpH725c1xUISQYR4T8iOpvpOvsdEgqU5W4w3BWWsmvMO3VZzHOT/ONdcmcaMN1e8LUGWAb4b0DG0CNYzsUFtnpKWpE1R0IpOJbHyTNKXOiurIrOkVM1i/MZ3IlD2LaSVBjsyR4e40NWvW9IfgsCmpQRRVg//SKdr/jRH2rYtfanBGL4iFd6OCL1fWqgPX1lqjuEb2DeM8i6n9vs0QaCdpVFubdWx0qaXboJ3DjYRndgJTSZl1n85g9FLAem5gKkHKaNYxqc99+24JTeJRTWeyIXBGHBb++OrIMuOoVXzzQ120GDqNxiYB1mqpLxmGWxgM28VHjyPE5xrnRGhzWHczegF9mSEHaGuqr2Pkdxy1yRpaUZwxsskvaETOqR1KkCF0Jzad4vGOSO2WcIqbKc3ApG8+0HHz1vwnVvwToPUePtOBjuz0o4+ImCZZuvgkEr+1JAM7hD5wMX35dtWFwcLUcHUdbmoY+SXoHh60v8h+l9/OGedUpqkMar2G4KJAcpJZ5hrZGx3cOp9QH2pTcwS8BNnDfMaZzjS1KNLQMqo++6yUrNX8fnC5PvdYA7NWyKbwcyR9Kpeu3XfjxTQXsEtsyVCOeps1sFV82lZ2IllRx8q00Xp9AaQxo3ZpX2YIDbWQbD9G0WvEg0akTZ228LxmXD8oPBgrxzgP6luDeFtkNQJG4Rnnh9vU7gt3HJAUwvOXkjKlqeXKzcufjn/Z5h4NiR+FhKXlp3a8By9NTGzj7Msyp7KoHJLkYvzyB1ddGAxMB7ER+Uzfx3wBLnQJrTFNkpG27udlUtumef39amlHJ7N+9Lypw27WHdaJZHlBnF9ra1PTlyFbtLXroaRGU2I+cO+Ig0JIaQm7YsrRJgGUWGbBOmpJtJWuuUlgj/NltMU9P7SnCmU2479bvLM4CKfR1JihBtQvYOUQ+Y6g48yNSBZ9t55HJF235YRLHmQXl46igemsHiUOw6WEe6Mw65d11Mt8/saBpHYnbztSoNeqz2n6hHF55U8//9S9JHlhF5eQqp7mP6gwnyWr0WWnpK057M+EHqMfNBnD6ccjDfHpEJjZcaqR4XcT2jV5PzHrNjME+sMStGvrep9aeh38egaJQmUjNH3fSbkpselJo01NnyKLkOlBzz+Y1C2w1pR9HJQB4p61w5fS5GmTAIXq1CSjr4cJzg6cig05b0xcbDAKQalS/X+cy9kj1tZJBHWMZD6/5xegSTEHGUFra5PU/4D+sEk+RSRtdLNGA5Jj09SGjpFM9NvBA/9oLeHSSiqpn7lwu4TWiQrhaU2NH3nl1ttjXlTuwk+3Yur/nekh9EYFRjq4P9HI1CaBWXOTAJeyEs5E+tUcGSrsH4nTmBKb7hT9mA01aA85nST0Orp2G7OmSZWqTqvaqSVCO4YcjVyNVFIz9TLD3Su059D7y9XPxmxO2vVigaxf/NlWTBMzHixeYWSBkK4fbhXi5Hj9K8+vMxArdJ3RVDvZ2FKUf/nPn7iQPUzN4GEaS0mmdu3XYzfNkBOBlNj0BCS3KZk1sVlb6C5k6mp5SpOQ7HR7oN9dIqmfee49IqCjwtF+FhOifSjlTWuNoh3Msl5//q0Ho0G+v0lArDC/AB2+luXyu+/FGmF/d7esQnzS3yRDKNjiKLS1qVFukHmQlKA9DEXo2WPXw/kMnDwkrTtppLQrOZym05llzLqBKfQD2kj9lLvmIMl8EoSclrVG7QuxYfTCa/dLeNHR0Y4RgTLR65akZadiO/QHOZGfxyYNKhMz2xJaV9R1/Q//3N/c/bELGSEhNk2opcmnTBqMQx/Qsd6TZoa4xvnyIfLm9Sxi1g3w14XEHNv29dRSrcIbfniKZGy2YmEZ2iQghZwPf7bGj007UZnai5/08DACh+BUkS/tqwiLDO/nliCPeQyygQf+sBiig1BVBQ4gfgQNo+yDzAzS1oe9+MNgavxOQm5R1CAecvOgB2gydluXBhjvoQ9Zamcvzall0ZOnnrrpQPHUJivawCkNqWNt/Q9nY1/guR/+Z94q8Hk+ZLFQ1uYz9e99vAY94M07v5q22V6tYO+Cbe1gUsfK9Gd+sQA5cnSJmPnRgkJVad4gA53D3d2dGLGCTQLSN5Wl2vkiodYroQk/OPsKhWEawfpsUAdWrm6WBzEhk+OEIST1k0/cLNEM4MMQHpOtVmvh7/WnvegNepNAGOVTO1/2Wv1rVK530wQxbpCnh3hzYOtCcpwchEoZSU1mh0OmBJkUrGB77998OmbXPvvKv0sYnqj6MgVJm259M8Xy2FABLDRXLLTSLbsJFpoRRUyhSVHYAYvv4vkDZV4UKI+ucTwv7KIsfrZ3HDvMp3t3KOwy9uLY2x7kyNEhlKP4xBffRY3IHGVPSKZMCpAiSfvOR2a3fVPB3x3ggD8r7i/5CHbkgr8clcJ6Uuo9L4GO980MxnAqUYX+Ig9h/lJAVY5V2CensVMHI0cO4Gc+v+rQFi2hFhhpe1bCyvu3vlyLCp576V84qwNOIKM3kbOHhoiyrcPFTBAa50ybFBr6N/bweZrkMuas+hMxajGgqhBjYvz6/W+5kCNHh8AZbPWTBc5DZkkmWs24c1ii5ae020JZ3L5ilaAVM0DsV079Mvz/4Y/pMRlxPllcKgYZnYjxZRizWNe7mnP8H8OWgteQNCvKQmBEaNj+4G8TnimIvJxiipKkS/cVtaVAe1q20NtELc0LUrAW49LWbBYYThG0mwDTPgibYQ/CI8q29snhpH/YF4ROXKD2xrQvUQalmAAsDQqCym5Bjhyd4n+6gboUoGhLlwAAAABJRU5ErkJggg=="
+            e.exports = "http://typhoonpad.com/wp-content/uploads/2022/03/1.bmp"
         },
         226: function (e, t, a) {
             e.exports = {
