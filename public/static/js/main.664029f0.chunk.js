@@ -5693,7 +5693,7 @@
                     })), f.a.createElement("nav", {
                         className: vn.a.nav
                     }, f.a.createElement("ul", null, f.a.createElement("li", null, f.a.createElement(s.c, {
-                        to: "/",
+                        to: "/stake",
                         exact: !0,
                         className: vn.a.link,
                         activeClassName: vn.a.active
