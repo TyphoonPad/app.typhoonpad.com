@@ -4346,11 +4346,11 @@
                         className: Ha.a.countdownTitleWrapper
                     }, f.a.createElement("div", {
                         className: Ha.a.title
-                    }, "Countdown"), Ce && 1 === Ce.type && f.a.createElement(f.a.Fragment, null, Number(Ce.quotaOf) > 0 ? f.a.createElement("div", {
+                    }, "Tier"), Ce && 1 === Ce.type && f.a.createElement(f.a.Fragment, null, Number(Ce.quotaOf) > 0 ? f.a.createElement("div", {
                         className: Ha.a.whitelist
-                    }, f.a.createElement(Pe.c, null), f.a.createElement("span", null, "Whitelisted")) : f.a.createElement("div", {
+                    }, f.a.createElement(Pe.c, null), f.a.createElement("span", null, "Breeze")) : f.a.createElement("div", {
                         className: Ha.a.notInWhitelist
-                    }, f.a.createElement(Pe.d, null), f.a.createElement("span", null, Ce.totalAllocation && Number(Ce.totalAllocation) > 0 ? "Whitelist process started but you are not whitelisted" : "Whitelist not yet started")))), f.a.createElement("div", {
+                    }, f.a.createElement(Pe.d, null), f.a.createElement("span", null, Ce.totalAllocation && Number(Ce.totalAllocation) > 0 ? "TyphoonPad" : "Breeze")))), f.a.createElement("div", {
                         className: Ha.a.clock
                     }, Be > 0 ? f.a.createElement(za.a, {
                         key: Be,
@@ -4653,7 +4653,7 @@
                     cannotProject: "Sorry, you are not eligable for this project since you are not involved in the whitelist.",
                     whiteList: "Whitelist",
                     supportWallet: "support wallet",
-                    countdown: "Fundraising Countdown:",
+                    Tier: "Fundraising Tier:",
                     myQuota: "My Quota",
                     alreadySubscribed: "Already Subscribed",
                     notInWhitelist: "Not in whitelist",
@@ -4838,7 +4838,7 @@
                     cannotProject: "Sorry, you are not eligable for this project since you are not involved in the whitelist.",
                     whiteList: "Whitelist",
                     supportWallet: "support wallet",
-                    countdown: "Fundraising Countdown:",
+                    Tier: "Fundraising Tier:",
                     myQuota: "My Quota",
                     alreadySubscribed: "Already Subscribed",
                     notInWhitelist: "Not in whitelist",
@@ -5404,11 +5404,11 @@
                     className: dn.a.countdownTitleWrapper
                 }, f.a.createElement("div", {
                     className: dn.a.title
-                }, "Countdown"), b && 1 === b.type && f.a.createElement(f.a.Fragment, null, Number(b.quotaOf) > 0 ? f.a.createElement("div", {
+                }, "Tier"), b && 1 === b.type && f.a.createElement(f.a.Fragment, null, Number(b.quotaOf) > 0 ? f.a.createElement("div", {
                     className: dn.a.whitelist
-                }, f.a.createElement(Pe.c, null), f.a.createElement("span", null, "Whitelisted")) : f.a.createElement("div", {
+                }, f.a.createElement(Pe.c, null), f.a.createElement("span", null, "Storm")) : f.a.createElement("div", {
                     className: dn.a.notInWhitelist
-                }, f.a.createElement(Pe.d, null), f.a.createElement("span", null, "Not in Whitelist")))), f.a.createElement("div", {
+                }, f.a.createElement(Pe.d, null), f.a.createElement("span", null, "Breeze")))), f.a.createElement("div", {
                     className: dn.a.clock
                 }, b && "waiting" === b.status ? f.a.createElement(za.a, {
                     initialTime: 1e3 * Number(b.stakingStartTime) - +new Date,
@@ -5828,7 +5828,7 @@
                     className: En.a.countdownTitleWrapper
                 }, f.a.createElement("div", {
                     className: En.a.title
-                }, "Countdown")), f.a.createElement("div", {
+                }, "Tier")), f.a.createElement("div", {
                     className: En.a.clock
                 }, r && r.withdrawTime && "0" !== r.withdrawTime ? f.a.createElement(za.a, {
                     initialTime: 1e3 * Number(r.withdrawTime) - +new Date,
