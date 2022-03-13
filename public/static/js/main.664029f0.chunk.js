@@ -3663,7 +3663,7 @@
                         className: ga.a.col
                     }, f.a.createElement("div", {
                         className: ga.a.label
-                    }, "Tier"), f.a.createElement("div", {
+                    }, "Access"), f.a.createElement("div", {
                         className: ga.a.value
                     }, 1 === E ? C ? "Public" : "private" : "public"))), f.a.createElement("div", {
                         className: ga.a.divider
@@ -4346,11 +4346,11 @@
                         className: Ha.a.countdownTitleWrapper
                     }, f.a.createElement("div", {
                         className: Ha.a.title
-                    }, "Tier"), Ce && 1 === Ce.type && f.a.createElement(f.a.Fragment, null, Number(Ce.quotaOf) > 0 ? f.a.createElement("div", {
+                    }, "Your Current Tier"), Ce && 1 === Ce.type && f.a.createElement(f.a.Fragment, null, Number(Ce.quotaOf) > 0 ? f.a.createElement("div", {
                         className: Ha.a.whitelist
                     }, f.a.createElement(Pe.c, null), f.a.createElement("span", null, "Breeze")) : f.a.createElement("div", {
                         className: Ha.a.notInWhitelist
-                    }, f.a.createElement(Pe.d, null), f.a.createElement("span", null, Ce.totalAllocation && Number(Ce.totalAllocation) > 0 ? "TyphoonPad" : "Breeze")))), f.a.createElement("div", {
+                    }, f.a.createElement(Pe.d, null), f.a.createElement("span", null, Ce.totalAllocation && Number(Ce.totalAllocation) > 0 ? "Typhoon" : "Breeze")))), f.a.createElement("div", {
                         className: Ha.a.clock
                     }, Be > 0 ? f.a.createElement(za.a, {
                         key: Be,
@@ -5404,7 +5404,7 @@
                     className: dn.a.countdownTitleWrapper
                 }, f.a.createElement("div", {
                     className: dn.a.title
-                }, "Tier"), b && 1 === b.type && f.a.createElement(f.a.Fragment, null, Number(b.quotaOf) > 0 ? f.a.createElement("div", {
+                }, "Your Current Tier"), b && 1 === b.type && f.a.createElement(f.a.Fragment, null, Number(b.quotaOf) > 0 ? f.a.createElement("div", {
                     className: dn.a.whitelist
                 }, f.a.createElement(Pe.c, null), f.a.createElement("span", null, "Storm")) : f.a.createElement("div", {
                     className: dn.a.notInWhitelist
@@ -5828,7 +5828,7 @@
                     className: En.a.countdownTitleWrapper
                 }, f.a.createElement("div", {
                     className: En.a.title
-                }, "Tier")), f.a.createElement("div", {
+                }, "Your Current Tier")), f.a.createElement("div", {
                     className: En.a.clock
                 }, r && r.withdrawTime && "0" !== r.withdrawTime ? f.a.createElement(za.a, {
                     initialTime: 1e3 * Number(r.withdrawTime) - +new Date,
