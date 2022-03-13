@@ -2699,8 +2699,8 @@
                     underlying: {
                         address: "-",
                         decimal: 18,
-                        symbol: "TestProject 1",
-                        name: "TPROJECT1",
+                        symbol: "TYP 1",
+                        name: "TYP 1",
                         total_supply: "0",
                         holders: "-",
                         transfers: "-"
@@ -2752,8 +2752,8 @@
                     underlying: {
                         address: "-",
                         decimal: 18,
-                        symbol: "PACIFIC",
-                        name: "PACIFIC ",
+                        symbol: "TYP 2",
+                        name: "TYP 2 ",
                         total_supply: "0",
                         holders: "-",
                         transfers: "-"
@@ -3663,7 +3663,7 @@
                         className: ga.a.col
                     }, f.a.createElement("div", {
                         className: ga.a.label
-                    }, "Access"), f.a.createElement("div", {
+                    }, "Tier"), f.a.createElement("div", {
                         className: ga.a.value
                     }, 1 === E ? C ? "Public" : "private" : "public"))), f.a.createElement("div", {
                         className: ga.a.divider
@@ -5909,7 +5909,7 @@
                     className: En.a.value
                 }, r && r.token ? r.token : "-"))))))))))
             }
-            var Nn = "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56";
+            var Nn = "0xeaFCe4feAE8d95315686C1aEc3bbA4A542f3b295";
             var Cn = function () {
                     var e = Object(v.useActiveWeb3React)().library,
                         t = Object(i.useState)(0),
@@ -6577,11 +6577,11 @@
                     className: zn.a.row
                 }, f.a.createElement("div", {
                     className: zn.a.label
-                }, "You staked"), f.a.createElement("div", null, (null === (g = F.userData) || void 0 === g ? void 0 : g.staked) ? re(null === (T = F.userData) || void 0 === T ? void 0 : T.staked, (null === (E = F.tokenInfo) || void 0 === E ? void 0 : E.decimals) ? Number(null === (w = F.tokenInfo) || void 0 === w ? void 0 : w.decimals) : 18) : "-", " ", (null === (_ = F.userData) || void 0 === _ ? void 0 : _.staked) ? null === (N = F.tokenInfo) || void 0 === N ? void 0 : N.symbol : "")), f.a.createElement("div", {
+                }, "You staked"), f.a.createElement("div", null, (null === (g = F.userData) || void 0 === g ? void 0 : g.staked) ? re(null === (T = F.userData) || void 0 === T ? void 0 : T.staked, (null === (E = "TYP") || void 0 === E ? void 0 : E.decimals) ? Number(null === (w = F.tokenInfo) || void 0 === w ? void 0 : w.decimals) : 18) : "-", " ", (null === (_ = F.userData) || void 0 === _ ? void 0 : _.staked) ? null === (N = F.tokenInfo) || void 0 === N ? void 0 : N.symbol : "")), f.a.createElement("div", {
                     className: zn.a.row
                 }, f.a.createElement("div", {
                     className: zn.a.label
-                }, "Your balance"), f.a.createElement("div", null, F.balance ? re(F.balance, (null === (C = F.tokenInfo) || void 0 === C ? void 0 : C.decimals) ? Number(null === (k = F.tokenInfo) || void 0 === k ? void 0 : k.decimals) : 18) : "-", " ", F.balance ? null === (O = F.tokenInfo) || void 0 === O ? void 0 : O.symbol : ""))), f.a.createElement("div", {
+                }, "Your balance"), f.a.createElement("div", null, F.balance ? re(F.balance, (null === (C = F.tokenInfo) || void 0 === C ? void 0 : C.decimals) ? Number(null === (k = "TYP") || void 0 === k ? void 0 : k.decimals) : 18) : "-", " ", F.balance ? null === (O = F.tokenInfo) || void 0 === O ? void 0 : O.symbol : ""))), f.a.createElement("div", {
                     className: zn.a.buttons
                 }, F.approved ? f.a.createElement(He, {
                     title: F.insufficientBalance ? "Insufficient balance" : F.loadings.stake ? "Staking..." : "Stake",
