@@ -2529,7 +2529,7 @@
                     totalPurchasedCurrency: "0",
                     is_flash: !1,
                     link_url: "https://typhoonpad.com/",
-                    project_introduction: "anypad"
+                    project_introduction: "typhoonpad"
                 }, {
                     name: "Weld Card",
                     address: "0x9392f25fAAE655A99Db37c096e82b6278fBfa904",
@@ -2683,7 +2683,7 @@
                     icon: "https://youclout.com/img/logo.svg"
                 }, {
                     name: "Test Project 1",
-                    address: "0x7e9551c7a3933c895189dd63XXXXXX",
+                    address: "0x872aB37f4922065B04572a92AEDBa9b34C907Ee5",
                     chainId: 56,
                     abi: Tt,
                     is_top: !0,
