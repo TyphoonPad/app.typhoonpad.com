@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8c1f4d2.chunk.css",
+    "main.js": "/static/js/main.664029f0.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.338e5548.js",
+    "static/css/2.e8d6ffa6.chunk.css": "/static/css/2.e8d6ffa6.chunk.css",
+    "static/js/2.4090b2a9.chunk.js": "/static/js/2.4090b2a9.chunk.js",
+    "static/js/3.cf079694.chunk.js": "/static/js/3.cf079694.chunk.js",
+    "static/js/4.6e767cca.chunk.js": "/static/js/4.6e767cca.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.ab4058b92e4e2a2dc191cd78f4fd87ab.js": "/precache-manifest.ab4058b92e4e2a2dc191cd78f4fd87ab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.4090b2a9.chunk.js.LICENSE.txt": "/static/js/2.4090b2a9.chunk.js.LICENSE.txt",
+    "static/js/3.cf079694.chunk.js.LICENSE.txt": "/static/js/3.cf079694.chunk.js.LICENSE.txt",
+    "static/media/affyn.jpg": "/static/media/affyn.6c6329a9.jpg",
+    "static/media/style.scss": "/static/media/diamond.4c16202a.png",
+    "static/media/cryptocade.jpg": "/static/media/cryptocade.510ec01f.jpg",
+    "static/media/duckieland.jpg": "/static/media/duckieland.1f7ea0b0.jpg",
+    "static/media/eth.png": "/static/media/eth.6594b16f.png",
+    "static/media/fabwelt.jpg": "/static/media/fabwelt.6b1463f6.jpg",
+    "static/media/lasthorde.jpg": "/static/media/lasthorde.f5eefa38.jpg",
+    "static/media/mintlayer.jpg": "/static/media/mintlayer.da891867.jpg",
+    "static/media/seor.png": "/static/media/seor.72909f91.png",
+    "static/media/sidus.jpg": "/static/media/sidus.ef30de48.jpg",
+    "static/media/Banner.module.scss": "/static/media/supported-chains.4d54db59.png",
+    "static/media/tribeland.png": "/static/media/tribeland.4d75c327.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.338e5548.js",
+    "static/css/2.e8d6ffa6.chunk.css",
+    "static/js/2.4090b2a9.chunk.js",
+    "static/css/main.d8c1f4d2.chunk.css",
+    "static/js/main.664029f0.chunk.js"
+  ]
+}
