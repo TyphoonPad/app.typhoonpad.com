@@ -2731,7 +2731,7 @@
                     totalPurchasedCurrency: "0",
                     is_flash: !1,
                     link_url: "",
-                    project_introduction: "TEAM DEATH MATCH ASSEMBLE YOUR SQUAD AND TAKE'EM DOWN",
+                    project_introduction: " This is A Test Project!!",
                     image: "http://typhoonpad.com/wp-content/uploads/2022/02/logo1-e1646021459715.png",
                     icon: "http://typhoonpad.com/wp-content/uploads/2022/02/logo1-e1646021459715.png"
                 }, {
