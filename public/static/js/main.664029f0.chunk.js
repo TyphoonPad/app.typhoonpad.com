@@ -217,10 +217,10 @@
                 L = a.n(z),
                 W = {
                     MAINNET: 1,
-                    BSC: 56,
+                    BSC: 97,
                     HECO: 128,
                     MATIC: 137,
-                    BSC_TEST: 97,
+                    BSC_TEST: 56,
                     MATIC_TEST: 80001
                 },
                 R = (n = {}, Object(P.a)(n, W.BSC, "https://bscscan.com"), Object(P.a)(n, W.BSC_TEST, "https://testnet.bscscan.com"), Object(P.a)(n, W.HECO, "https://hecoinfo.com"), Object(P.a)(n, W.MATIC, "https://polygonscan.com/"), Object(P.a)(n, W.MATIC_TEST, "https://mumbai.polygonscan.com/"), Object(P.a)(n, W.MAINNET, "https://etherscan.io"), n);
@@ -2482,7 +2482,7 @@
                     totalPurchasedCurrency: "0",
                     is_flash: !1,
                     link_url: "https://typhoonpad.com/",
-                    project_introduction: "anypad"
+                    project_introduction: "TyphoonPad"
                 }, {
                     name: "Public pool",
                     address: "0xC42C98942143005D1812b2A854036B53D78D25C6",
@@ -5909,7 +5909,7 @@
                     className: En.a.value
                 }, r && r.token ? r.token : "-"))))))))))
             }
-            var Nn = "0xeaFCe4feAE8d95315686C1aEc3bbA4A542f3b295";
+            var Nn = "0x8CD4224484881ED2d180452fA8F42B3F70156fEd";
             var Cn = function () {
                     var e = Object(v.useActiveWeb3React)().library,
                         t = Object(i.useState)(0),
@@ -6577,11 +6577,11 @@
                     className: zn.a.row
                 }, f.a.createElement("div", {
                     className: zn.a.label
-                }, "You staked"), f.a.createElement("div", null, (null === (g = F.userData) || void 0 === g ? void 0 : g.staked) ? re(null === (T = F.userData) || void 0 === T ? void 0 : T.staked, (null === (E = "TYP") || void 0 === E ? void 0 : E.decimals) ? Number(null === (w = F.tokenInfo) || void 0 === w ? void 0 : w.decimals) : 18) : "-", " ", (null === (_ = F.userData) || void 0 === _ ? void 0 : _.staked) ? null === (N = F.tokenInfo) || void 0 === N ? void 0 : N.symbol : "")), f.a.createElement("div", {
+                }, "You staked"), f.a.createElement("div", null, (null === (g = F.userData) || void 0 === g ? void 0 : g.staked) ? re(null === (T = F.userData) || void 0 === T ? void 0 : T.staked, (null === (E = F.tokenInfo) || void 0 === E ? void 0 : E.decimals) ? Number(null === (w = F.tokenInfo) || void 0 === w ? void 0 : w.decimals) : 18) : "-", " ", (null === (_ = F.userData) || void 0 === _ ? void 0 : _.staked) ? null === (N = F.tokenInfo) || void 0 === N ? void 0 : N.symbol : "")), f.a.createElement("div", {
                     className: zn.a.row
                 }, f.a.createElement("div", {
                     className: zn.a.label
-                }, "Your balance"), f.a.createElement("div", null, F.balance ? re(F.balance, (null === (C = F.tokenInfo) || void 0 === C ? void 0 : C.decimals) ? Number(null === (k = "TYP") || void 0 === k ? void 0 : k.decimals) : 18) : "-", " ", F.balance ? null === (O = F.tokenInfo) || void 0 === O ? void 0 : O.symbol : ""))), f.a.createElement("div", {
+                }, "Your balance"), f.a.createElement("div", null, F.balance ? re(F.balance, (null === (C = F.tokenInfo) || void 0 === C ? void 0 : C.decimals) ? Number(null === (k = F.tokenInfo) || void 0 === k ? void 0 : k.decimals) : 18) : "-", " ", F.balance ? null === (O = F.tokenInfo) || void 0 === O ? void 0 : O.symbol : ""))), f.a.createElement("div", {
                     className: zn.a.buttons
                 }, F.approved ? f.a.createElement(He, {
                     title: F.insufficientBalance ? "Insufficient balance" : F.loadings.stake ? "Staking..." : "Stake",
