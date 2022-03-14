@@ -2684,7 +2684,7 @@
                 }, {
                     name: "Test Project 1",
                     address: "0x872aB37f4922065B04572a92AEDBa9b34C907Ee5",
-                    chainId: 97,
+                    chainId: 56,
                     abi: Tt,
                     is_top: !0,
                     is_coming: !1,
@@ -2737,7 +2737,7 @@
                 }, {
                     name: "Test Project2",
                     address: "0x872aB37f4922065B04572a92AEDBa9b34C907Ee5",
-                    chainId: 97,
+                    chainId: 56,
                     abi: Tt,
                     is_top: !0,
                     is_coming: !1,
