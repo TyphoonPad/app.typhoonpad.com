@@ -6049,7 +6049,7 @@
                                 }), e, null, [
                                     [0, 9, 12, 15]
                                 ])
-                            })))() : je.b.error("Can not find token, please reload this page") : je.b.error("Please connect wallet first"))
+                            })))() : je.b.error("Can not find token, please Change to BSC Testnet and reload this page") : je.b.error("Please connect wallet first"))
                         }), [n, f, null === A || void 0 === A ? void 0 : A.token]),
                         Y = Object(i.useCallback)((function (e, t) {
                             n && (f && (null === _ || void 0 === _ ? void 0 : _.decimals) ? Object(ke.a)(Ce.a.mark((function a() {
