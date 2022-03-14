@@ -238,7 +238,7 @@
                 }),
                 Q = new j.a({
                     rpc: {
-                        56: "https://bsc-dataseed.binance.org/"
+                        97: "https://data-seed-prebsc-1-s1.binance.org:8545/"
                     },
                     bridge: "https://bridge.walletconnect.org",
                     qrcode: !0,
@@ -2684,7 +2684,7 @@
                 }, {
                     name: "Test Project 1",
                     address: "0x872aB37f4922065B04572a92AEDBa9b34C907Ee5",
-                    chainId: 56,
+                    chainId: 97,
                     abi: Tt,
                     is_top: !0,
                     is_coming: !1,
@@ -2737,7 +2737,7 @@
                 }, {
                     name: "Test Project2",
                     address: "0x872aB37f4922065B04572a92AEDBa9b34C907Ee5",
-                    chainId: 56,
+                    chainId: 97,
                     abi: Tt,
                     is_top: !0,
                     is_coming: !1,
