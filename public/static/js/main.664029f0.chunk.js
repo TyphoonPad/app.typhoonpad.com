@@ -217,10 +217,10 @@
                 L = a.n(z),
                 W = {
                     MAINNET: 1,
-                    BSC: 97,
+                    BSC: 56,
                     HECO: 128,
                     MATIC: 137,
-                    BSC_TEST: 56,
+                    BSC_TEST: 97,
                     MATIC_TEST: 80001
                 },
                 R = (n = {}, Object(P.a)(n, W.BSC, "https://bscscan.com"), Object(P.a)(n, W.BSC_TEST, "https://testnet.bscscan.com"), Object(P.a)(n, W.HECO, "https://hecoinfo.com"), Object(P.a)(n, W.MATIC, "https://polygonscan.com/"), Object(P.a)(n, W.MATIC_TEST, "https://mumbai.polygonscan.com/"), Object(P.a)(n, W.MAINNET, "https://etherscan.io"), n);
@@ -2684,7 +2684,7 @@
                 }, {
                     name: "Test Project 1",
                     address: "0x872aB37f4922065B04572a92AEDBa9b34C907Ee5",
-                    chainId: 97,
+                    chainId: 56,
                     abi: Tt,
                     is_top: !0,
                     is_coming: !1,
@@ -2721,8 +2721,8 @@
                     Github: null,
                     progress: 1,
                     status: 0,
-                    purchaseTime: 1633367376,
-                    purchaseDeadline: 1833435200,
+                    purchaseTime: 0,
+                    purchaseDeadline: 0,
                     withdrawTime: 0,
                     ratio: "N/A",
                     purchasedCurrencyOf: 0,
@@ -2737,7 +2737,7 @@
                 }, {
                     name: "Test Project2",
                     address: "0x872aB37f4922065B04572a92AEDBa9b34C907Ee5",
-                    chainId: 97,
+                    chainId: 56,
                     abi: Tt,
                     is_top: !0,
                     is_coming: !1,
@@ -3446,9 +3446,9 @@
                                 case W.HECO:
                                     return "Switch to HECO";
                                 case W.BSC:
-                                    return "Switch to BSC Testnet";
-                                case W.BSC_TEST:
                                     return "Switch to BSC";
+                                case W.BSC_TEST:
+                                    return "Switch to BSC Testnet";
                                 case W.MATIC:
                                     return "Switch to MATIC";
                                 default:
@@ -3580,7 +3580,7 @@
                                 case W.HECO:
                                     return "Switch to HECO";
                                 case W.BSC:
-                                    return "Switch to BSC Testnet";
+                                    return "Switch to BSC";
                                 case W.BSC_TEST:
                                     return "Switch to BSC Testnet";
                                 case W.MATIC:
@@ -3839,7 +3839,7 @@
                                 case W.HECO:
                                     return "Switch to HECO";
                                 case W.BSC:
-                                    return "Switch to BSC Testnet";
+                                    return "Switch to BSC";
                                 case W.BSC_TEST:
                                     return "Switch to BSC Testnet";
                                 case W.MATIC:
