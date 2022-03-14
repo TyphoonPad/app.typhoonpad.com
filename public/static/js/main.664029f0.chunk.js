@@ -238,7 +238,7 @@
                 }),
                 Q = new j.a({
                     rpc: {
-                        97: "https://data-seed-prebsc-1-s1.binance.org:8545/"
+                        56: "https://bsc-dataseed.binance.org/"
                     },
                     bridge: "https://bridge.walletconnect.org",
                     qrcode: !0,
@@ -2721,8 +2721,8 @@
                     Github: null,
                     progress: 1,
                     status: 0,
-                    purchaseTime: 0,
-                    purchaseDeadline: 0,
+                    purchaseTime: 1633367376,
+                    purchaseDeadline: 1833435200,
                     withdrawTime: 0,
                     ratio: "N/A",
                     purchasedCurrencyOf: 0,
@@ -3446,9 +3446,9 @@
                                 case W.HECO:
                                     return "Switch to HECO";
                                 case W.BSC:
-                                    return "Switch to BSC";
-                                case W.BSC_TEST:
                                     return "Switch to BSC Testnet";
+                                case W.BSC_TEST:
+                                    return "Switch to BSC";
                                 case W.MATIC:
                                     return "Switch to MATIC";
                                 default:
