@@ -2684,7 +2684,7 @@
                 }, {
                     name: "Test Project 1",
                     address: "0x872aB37f4922065B04572a92AEDBa9b34C907Ee5",
-                    chainId: 56,
+                    chainId: 97,
                     abi: Tt,
                     is_top: !0,
                     is_coming: !1,
@@ -2737,7 +2737,7 @@
                 }, {
                     name: "Test Project2",
                     address: "0x872aB37f4922065B04572a92AEDBa9b34C907Ee5",
-                    chainId: 56,
+                    chainId: 97,
                     abi: Tt,
                     is_top: !0,
                     is_coming: !1,
@@ -6555,7 +6555,7 @@
                     style: {
                         color: "white"
                     }
-                }, "Please connect wallet or make sure you are in Binance Smart Chain mainnet to continue.") : null)), f.a.createElement("div", {
+                }, "TYP Staking is only alive on BSC Test Net now, Please change your network to BSC Test Net and refresh the Page") : null)), f.a.createElement("div", {
                     className: zn.a.stakeInfo
                 }, f.a.createElement("div", {
                     className: zn.a.row
