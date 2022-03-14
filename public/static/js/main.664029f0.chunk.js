@@ -3580,7 +3580,7 @@
                                 case W.HECO:
                                     return "Switch to HECO";
                                 case W.BSC:
-                                    return "Switch to BSC";
+                                    return "Switch to BSC Testnet";
                                 case W.BSC_TEST:
                                     return "Switch to BSC Testnet";
                                 case W.MATIC:
@@ -3839,7 +3839,7 @@
                                 case W.HECO:
                                     return "Switch to HECO";
                                 case W.BSC:
-                                    return "Switch to BSC";
+                                    return "Switch to BSC Testnet";
                                 case W.BSC_TEST:
                                     return "Switch to BSC Testnet";
                                 case W.MATIC:
